@@ -1,12 +1,10 @@
 # 👨‍💻 **AkoFlux — DABIN Mathis**
 
-> Développeur Full Stack • Code propre • Solutions modernes & professionnelles
-
 ---
 
 ## 🧾 **Présentation**
 
-Bonjour et bienvenue sur mon GitHub ! Je suis **Dabin Mathis (AkoFlux)**, développeur passionné par la création d'applications modernes, performantes et bien structurées.
+Bonjour et bienvenue sur mon GitHub ! Je suis **Dabin Mathis**, développeur passionné par la création d'applications modernes, performantes et bien structurées.
 
 Je travaille principalement avec :
 
@@ -16,7 +14,6 @@ Je travaille principalement avec :
 * **C#** — Applications desktop / outils internes
 * **Python** — Automatisation, scripts, data
 
-Mon objectif : fournir des projets **clairs**, **maintenables**, et **professionnels**.
 
 ---
 
@@ -39,26 +36,11 @@ Mon objectif : fournir des projets **clairs**, **maintenables**, et **profession
 
 ---
 
-## 📊 **Statistiques GitHub**
-
-<div align="center">
-
-### Activité
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akoflux&show_icons=true&theme=tokyonight&hide_border=true)
-
-### Langages les plus utilisés
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akoflux\&layout=compact\&theme=default\&hide_border=true)
-
-</div>
-
----
 
 ## 📫 **Contact**
 
-📧 **Email :** *Ajoute ton email ici*
-💬 **Discord :** *Ajoute ton pseudo ici*
+📧 **Email :** *mathisd94550@gmail.com*
+💬 **Discord :** *akoontheflux*
 
 ---
 
