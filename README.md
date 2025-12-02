@@ -2,7 +2,7 @@
 
 # 🌐 DABIN MATHIS • AKOFLUX
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Développeur+Web+Full-Stack;Créateur+d'Expériences+Digitales;Étudiant+%7C+Passionné+%7C+Innovant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Développeur+Web+Full-Stack;Créateur+d'Expériences+Digitales;Étudiant+%7C+Passionné+%7C+Innovant"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
@@ -16,15 +16,14 @@
 > Toujours à la recherche de nouveaux défis et d'**innovations technologiques**.
 
 ```javascript
-const dabin = {
+const Mathis = {
     alias: "akoflux",
     role: "Full-Stack Developer",
     status: "Étudiant",
     location: "France 🇫🇷",
     passion: ["Code", "Innovation", "Design"],
     currentFocus: "Développement Web & API",
-    learning: ["Architectures Modernes", "DevOps", "Cloud"],
-    motto: "Code with passion, build with purpose"
+    motto: "Code with passion"
 };
 ```
 
@@ -51,8 +50,6 @@ const dabin = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e)
 
 </div>
@@ -74,7 +71,7 @@ const dabin = {
 ### 🚗 FleetManager
 ```ascii
 ╔══════════════════════════════════════════╗
-║  Système de gestion de flotte           ║
+║  Système de gestion de flotte            ║
 ║  Technologies: Web Stack • API           ║
 ╚══════════════════════════════════════════╝
 ```
@@ -103,33 +100,6 @@ const dabin = {
 
 ---
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=akoflux&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophées"/>
-
-</div>
-
----
-
-## 🎯 Actuellement
-
-<div align="center">
-
-```typescript
-const currentStatus = {
-    learning: ["Architectures Microservices", "API REST", "Cloud Computing"],
-    working_on: ["Faune-Royale", "FleetManager", "Projets Personnels"],
-    interests: ["Web Development", "Backend Optimization", "UI/UX"],
-    available_for: "Collaborations & Projets Open Source"
-};
-```
-
-</div>
-
----
-
 ## 📫 Contact & Réseaux
 
 <div align="center">
@@ -145,7 +115,7 @@ const currentStatus = {
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity
 
 <div align="center">
 
@@ -188,7 +158,7 @@ me.say_hi()
 
 **💡 « Le code est de la poésie, les bugs sont des défis, et chaque projet est une aventure. »**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Merci+pour+ta+visite+!;N'hésite+pas+à+me+contacter+!;Let's+build+something+amazing+together+!" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Merci+pour+ta+visite+!;N'hésite+pas+à+me+contacter+!;Let's+build+something+amazing+together+!"/>
 
 ---
 
