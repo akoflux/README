@@ -94,8 +94,6 @@ const Mathis = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akoflux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" alt="Top Languages"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akoflux&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-
 </div>
 
 ---
