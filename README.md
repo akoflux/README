@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌐 DABIN MATHIS • AKOFLUX
+# 🌐 MATHIS • AKOFLUX
 
-<img src="images/dev.gif" alt="Typing SVG" />
+<img src="images/devv.gif" alt="Typing SVG" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF006E&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
